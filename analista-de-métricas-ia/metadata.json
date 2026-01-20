@@ -1,0 +1,7 @@
+{
+  "name": "Analista de Métricas IA",
+  "description": "Una aplicación avanzada de análisis de datos que utiliza IA para generar informes comerciales y editoriales a partir de archivos cargados, permitiendo además una interacción por chat sobre los datos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
